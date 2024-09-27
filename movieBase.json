@@ -1,0 +1,92 @@
+{
+  "review": [
+    {
+      "name": "sadcvfd",
+      "email": "asdfxghjsdcfvgb@gmail.com",
+      "reviews": "asdfgdfhjh",
+      "id": 1
+    },
+    {
+      "name": "aswathy",
+      "email": "aswathy@gamil.com",
+      "reviews": "adipoli",
+      "id": 2
+    },
+    {
+      "name": "sabik",
+      "email": "sabik@gmail.com",
+      "reviews": "super",
+      "id": 3
+    }
+  ],
+  "trailer": [
+    {
+      "trailerName": "Palum Pazhavum",
+      "YoutubeLink": "https://www.youtube.com/embed/vFT6ZOldJLI",
+      "ImageUrl": "https://img.youtube.com/vi/vFT6ZOldJLI/hqdefault.jpg",
+      "id": 3
+    },
+    {
+      "trailerName": "footage",
+      "YoutubeLink": "https://www.youtube.com/embed/sX48jFi-X9U",
+      "ImageUrl": "https://img.youtube.com/vi/sX48jFi-X9U/hqdefault.jpg",
+      "id": 4
+    },
+    {
+      "trailerName": "ARM",
+      "YoutubeLink": "https://www.youtube.com/embed/rFgS10V8908",
+      "ImageUrl": "https://img.youtube.com/vi/rFgS10V8908/hqdefault.jpg",
+      "id": 5
+    },
+    {
+      "trailerName": "manichithrathazhu",
+      "YoutubeLink": "https://www.youtube.com/embed/D5SSyk_jaSE",
+      "ImageUrl": "https://img.youtube.com/vi/D5SSyk_jaSE/hqdefault.jpg",
+      "id": 7
+    },
+    {
+      "trailerName": "GOAT",
+      "YoutubeLink": "https://www.youtube.com/embed/jxCRlebiebw",
+      "ImageUrl": "https://img.youtube.com/vi/jxCRlebiebw/hqdefault.jpg",
+      "id": 10
+    },
+    {
+      "trailerName": "Kondal",
+      "YoutubeLink": "https://www.youtube.com/embed/0Ez64qO624M",
+      "ImageUrl": "https://img.youtube.com/vi/0Ez64qO624M/hqdefault.jpg",
+      "id": 11
+    },
+    {
+      "trailerName": "kishkinda kandham",
+      "YoutubeLink": "https://www.youtube.com/embed/6jR7lL-o7js",
+      "ImageUrl": "https://img.youtube.com/vi/6jR7lL-o7js/hqdefault.jpg",
+      "id": 12
+    }
+  ],
+  "song": [
+    {
+      "MusisName": "kunfaya",
+      "muiscLink": "https://www.youtube.com/embed/T94PHkuydcw",
+      "imageurl": "https://img.youtube.com/vi/T94PHkuydcw/hqdefault.jpg",
+      "id": 1
+    },
+    {
+      "MusisName": "pavizha mazha",
+      "muiscLink": "https://www.youtube.com/embed/P-jKtzUuVcM",
+      "imageurl": "https://img.youtube.com/vi/P-jKtzUuVcM/hqdefault.jpg",
+      "id": 2
+    },
+    {
+      "MusisName": "pularkaklo",
+      "muiscLink": "https://www.youtube.com/embed/SmNJYC1Awug",
+      "imageurl": "https://img.youtube.com/vi/SmNJYC1Awug/hqdefault.jpg",
+      "id": 3
+    },
+    {
+      "MusisName": "vettayan",
+      "muiscLink": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "imageurl": "https://img.youtube.com/vi/AiD6SOOBKZI/hqdefault.jpg",
+      "id": 4
+    }
+  ]
+}
